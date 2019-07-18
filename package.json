@@ -1,0 +1,27 @@
+{
+  "name": "dot-env-example",
+  "version": "1.0.0",
+  "description": "Simple app that showcases the use of the dotenv package with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/reggietheroman/dot-env-example.git"
+  },
+  "keywords": [
+    "dotenv",
+    "nodejs"
+  ],
+  "author": "Reggie Bigornia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reggietheroman/dot-env-example/issues"
+  },
+  "homepage": "https://github.com/reggietheroman/dot-env-example#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
+}
